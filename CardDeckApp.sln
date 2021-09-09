@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeckApp", "CardDeckApp.csproj", "{30909274-044B-4A77-8F5E-743B24B058D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30909274-044B-4A77-8F5E-743B24B058D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30909274-044B-4A77-8F5E-743B24B058D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30909274-044B-4A77-8F5E-743B24B058D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30909274-044B-4A77-8F5E-743B24B058D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1126A879-8338-48CC-8DED-A9E55FA6B92E}
+	EndGlobalSection
+EndGlobal
